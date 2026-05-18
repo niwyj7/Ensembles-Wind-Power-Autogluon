@@ -1,5 +1,9 @@
 # Ensembles-Wind-Power-Autogluon
 This project provides a systematic pipeline for 15-minute granularity wind power forecasting, built on the **AutoGluon** framework to enable rigorous model benchmarking and feature engineering.
+
+Note: All materials **exclude** confidential and employer-specific business logic, and are permitted for sharing.
+
+
 ### **Regional Wind Power Forecasting**
 
 **Why AutoGluon & Tree-Based Ensembles?**
